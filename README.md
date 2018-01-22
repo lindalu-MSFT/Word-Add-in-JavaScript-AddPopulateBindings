@@ -12,7 +12,7 @@
 * [Additional resources](#additional-resources)
 
 <a name="summary"></a>
-##Summary
+## Summary
 This sample shows how to add and bind to a named rich text content control in Word, and how to insert content at the bound location. 
 
 <a name="prerequisites"></a>
@@ -41,7 +41,7 @@ The sample solution contains the following key files:
 
 
 <a name="codedescription"></a>
-##Description of the code
+## Description of the code
 The sample demonstrates how to:
 
 - Use the **setSelectedDataAsync** method with the **ooxml** coercion type to add a rich text content control.
